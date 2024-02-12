@@ -52,4 +52,4 @@ while True:
         if next_calculation == "ne":
           break
     else:
-        print("Invalidas")
+        print("invalidas")
